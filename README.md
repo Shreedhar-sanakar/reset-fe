@@ -1,12 +1,7 @@
 Hey There,
 
-# Sample Login credentials for the password reset flow task is as:<br/>
-Username: mslazyprogrammer13@gmail.com<br/>
-Password: Laazyprog@13
 
-# The backend deployed urls is as below: <br/>
-Github repo: https://github.com/SaviSanjay1310/pswd-reset-be <br/>
-Deployed URL: https://password-reset-nodejs.herokuapp.com/
+
 
 # Sample demo for verify email:
 ![signup](https://user-images.githubusercontent.com/92391756/162415791-6ef6ddaf-04d1-4f6b-baaa-bfaac161af58.PNG)
